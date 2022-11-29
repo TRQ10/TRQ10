@@ -1,17 +1,16 @@
 
-
-<p align="center">
-  ### 🧰 Languages and Tools:
-<img align="left" alt="Java" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/java.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/sql.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
-<img align="left" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
+ ### 🧰 Languages and Tools:
+<p align="center"> 
+  <img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
+  <img align="left" alt="Java" width="26px" src="https://github.com/TRQ10/TRQ10/blob/main/Assets/django.png" />
+  <img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
+  <img align="left" alt="CSS3" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png" />
+  <img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
+  <img align="left" alt="SQL" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/sql.png" />
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
+  <img align="left" alt="Git" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png" />
+  <img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
+  <img align="left" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
 </p>
 
 <br/>
