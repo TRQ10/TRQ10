@@ -40,7 +40,7 @@ Olá 👋, sou **Tiago** um desenvolvedor full stack. No momento me especializo 
 
 - 💬Me pergunte sobre **Desenvolvimento de jogos, desenvolvimento web e Design**
 
-- 📫 Me contate **-------**
+- 📫 Me contate **---trq10.dev@gmail.com----**
 
 </details>
   
