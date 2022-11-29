@@ -1,5 +1,9 @@
 
 <img src="https://github.com/TRQ10/TRQ10/blob/main/Assets/banner.png" width="100%" height="auto"/>
+
+
+### 🧰 Languages and Tools:
+
 <p align="center"> 
   <img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
   <img align="left" alt="Java" width="26px" src="https://github.com/TRQ10/TRQ10/blob/main/Assets/django.png" />
@@ -20,6 +24,7 @@
 Olá 👋, sou **Tiago** um desenvolvedor full stack. No momento me especializo em desenvolvimento web e densenvolvimento de jogos, GdScript and Design. Adoro me comunicar, participar de comunidades e agregar valor.✨
 
 <div>
+  
 <details>
   <summary>🧑 Um pouco mais sobre mim</summary>
 
