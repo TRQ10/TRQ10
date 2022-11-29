@@ -1,5 +1,5 @@
 
- ### 🧰 Languages and Tools:
+<img src="https://github.com/TRQ10/TRQ10/blob/main/Assets/banner.png" width="100%" height="auto"/>
 <p align="center"> 
   <img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
   <img align="left" alt="Java" width="26px" src="https://github.com/TRQ10/TRQ10/blob/main/Assets/django.png" />
