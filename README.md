@@ -1,7 +1,6 @@
 
 <img src="https://github.com/TRQ10/TRQ10/blob/main/Assets/banner.png" width="100%" height="auto"/>
 
-<div alignt="center">
 ### 🧰 Linguagens e Ferramentas:
 
 <p align="center"> 
@@ -16,7 +15,6 @@
   <img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
   <img align="left" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
 </p>
-</div>
 
 <br/>
 <br/>
@@ -25,6 +23,9 @@
   
 Olá 👋, sou **Tiago** um desenvolvedor full stack. No momento me especializo em desenvolvimento web e densenvolvimento de jogos, GdScript and Design. Adoro me comunicar, participar de comunidades e agregar valor.✨
 
+<br/>
+<br/>
+  
 <div>
   
 <details>
