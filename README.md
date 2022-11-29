@@ -2,7 +2,7 @@
 <img src="https://github.com/TRQ10/TRQ10/blob/main/Assets/banner.png" width="100%" height="auto"/>
 
 
-### 🧰 Languages and Tools:
+### 🧰 Linguagens e Ferramentas:
 
 <p align="center"> 
   <img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
