@@ -1,9 +1,9 @@
 
 <img src="https://github.com/TRQ10/TRQ10/blob/main/Assets/banner.png" width="100%" height="auto"/>
 
-### 🧰 Linguagens e Ferramentas:
+## :high_brightness: Tecnologias
 
-<p align="center"> 
+<div style="display: inline_block"><br>
   <img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
   <img align="left" alt="Java" width="26px" src="https://github.com/TRQ10/TRQ10/blob/main/Assets/django.png" />
   <img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
@@ -14,7 +14,7 @@
   <img align="left" alt="Git" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png" />
   <img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
   <img align="left" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
-</p>
+</div>
 
 <br/>
 <br/>
