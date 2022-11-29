@@ -21,7 +21,7 @@
 
 <p>
   
-Olá 👋, sou **Tiago** um desenvolvedor full stack. No momento me especializo em desenvolvimento web e densenvolvimento de jogos, GdScript and Design. Adoro me comunicar, participar de comunidades e agregar valor.✨
+Olá 👋, sou **Tiago** um desenvolvedor full stack. No momento me especializo em desenvolvimento web e densenvolvimento de jogos, GdScript e Design. Adoro me comunicar, participar de comunidades e agregar valor.✨
 
 <br/>
   
