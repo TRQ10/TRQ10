@@ -58,4 +58,8 @@ Olá 👋, sou **Tiago** um desenvolvedor full stack. No momento me especializo 
   <a href="https://github.com/TRQ10"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=TRQ10&theme=radical&title_color=ff3068"></a>
   <a href="https://github.com/TRQ10"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=TRQ10&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
   </p>
+  
+  ## :mailbox: Quer falar comigo? 
+  <a href="https://www.linkedin.com/in/tiago-roque-528b191b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:trq10.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
