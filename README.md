@@ -15,7 +15,7 @@
   <img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
   <img align="left" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
   <img align="left" alt="React" width="42px" src="https://github.com/TRQ10/TRQ10/blob/main/Assets/react.png" />
-  <img align="left" alt="MongoDB" width="30px" src="https://github.com/TRQ10/TRQ10/blob/main/Assets/MongoDB.png" />
+  <img align="left" alt="MongoDB" width="40px" src="https://github.com/TRQ10/TRQ10/blob/main/Assets/MongoDB.png" />
   <img align="left" alt="MySQL" width="32px" src="https://github.com/TRQ10/TRQ10/blob/main/Assets/MySQL.png" />
 </div>
 
